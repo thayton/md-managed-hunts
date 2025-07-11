@@ -1,0 +1,60 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Todd Hayton">
+<metadata/>
+    <wpt lat="39.2132" lon="-76.9138">
+        <name>Stand 1</name>
+    </wpt>
+    <wpt lat="39.2148" lon="-76.9130">
+        <name>Stand 2</name>
+    </wpt>
+    <wpt lat="39.2119" lon="-76.9101">
+        <name>Stand 3</name>
+    </wpt>
+    <wpt lat="39.2148" lon="-76.9085">
+        <name>Stand 4</name>
+    </wpt>
+    <wpt lat="39.2157" lon="-76.9085">
+        <name>Stand 5</name>
+    </wpt>
+    <wpt lat="39.2161" lon="-76.9108">
+        <name>Stand 6</name>
+    </wpt>
+    <wpt lat="39.2165" lon="-76.9136">
+        <name>Stand 7</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 8</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 9</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 10</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 11</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 12</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 13</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 14</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 15</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 16</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 17</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 18</name>
+    </wpt>
+    <wpt lat="" lon="">
+        <name>Stand 19</name>
+    </wpt>    
+</gpx>
